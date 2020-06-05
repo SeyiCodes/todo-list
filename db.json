@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "input": "visit friends"
+    },
+    {
+      "id": 3,
+      "input": "write some code"
+    },
+    {
+      "input": "walk the dog",
+      "id": 4
+    },
+    {
+      "input": "call a friend",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "input": "go for   a walking"
+    }
+  ]
+}
